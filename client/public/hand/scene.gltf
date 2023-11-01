@@ -1,0 +1,657 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 16913,
+      "max": [
+        41.16240310668945,
+        13.42915153503418,
+        60.81889343261719
+      ],
+      "min": [
+        -124.04878997802734,
+        -82.23517608642578,
+        -28.548330307006836
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 202956,
+      "componentType": 5126,
+      "count": 16913,
+      "max": [
+        0.9999364018440247,
+        0.9999518990516663,
+        0.9997082352638245
+      ],
+      "min": [
+        -0.9999253153800964,
+        -0.9999540448188782,
+        -0.9997395873069763
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 16913,
+      "max": [
+        0.9887461066246033,
+        0.9900000095367432
+      ],
+      "min": [
+        0.009999999776482582,
+        -0.0005249212845228612
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 135304,
+      "componentType": 5126,
+      "count": 16913,
+      "max": [
+        0.9887461066246033,
+        0.9900000095367432
+      ],
+      "min": [
+        0.009999999776482582,
+        -0.0005249212845228612
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 85299,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 405912,
+      "componentType": 5126,
+      "count": 32778,
+      "max": [
+        41.070526123046875,
+        101.123046875,
+        61.5671501159668
+      ],
+      "min": [
+        -124.1572265625,
+        6.844666004180908,
+        -13.256345748901367
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 799248,
+      "componentType": 5126,
+      "count": 32778,
+      "max": [
+        0.9999857544898987,
+        0.9999979138374329,
+        0.9998993277549744
+      ],
+      "min": [
+        -0.9999950528144836,
+        -0.9999993443489075,
+        -0.9998103976249695
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 32778,
+      "max": [
+        1.0,
+        0.9999377727508545,
+        0.9999997019767761,
+        1.0
+      ],
+      "min": [
+        -0.9999861717224121,
+        -0.9999677538871765,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 270608,
+      "componentType": 5126,
+      "count": 32778,
+      "max": [
+        0.9888890385627747,
+        0.9900000095367432
+      ],
+      "min": [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 532832,
+      "componentType": 5126,
+      "count": 32778,
+      "max": [
+        0.9888890385627747,
+        0.9900000095367432
+      ],
+      "min": [
+        0.009999999776482582,
+        0.009999999776482582
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 341196,
+      "componentType": 5125,
+      "count": 172080,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1192584,
+      "componentType": 5126,
+      "count": 15276,
+      "max": [
+        -4.856306076049805,
+        5.186347007751465,
+        13.643654823303223
+      ],
+      "min": [
+        -15.599247932434082,
+        -10.208338737487793,
+        -3.4584271907806396
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1375896,
+      "componentType": 5126,
+      "count": 15276,
+      "max": [
+        0.9998866319656372,
+        0.9999417662620544,
+        0.9997457265853882
+      ],
+      "min": [
+        -0.999964714050293,
+        -0.9999595284461975,
+        -0.9996333718299866
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 524448,
+      "componentType": 5126,
+      "count": 15276,
+      "max": [
+        0.9999879002571106,
+        0.999998927116394,
+        0.9999989867210388,
+        1.0
+      ],
+      "min": [
+        -0.9999939203262329,
+        -0.9999996423721313,
+        -0.9999955892562866,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 795056,
+      "componentType": 5126,
+      "count": 15276,
+      "max": [
+        0.9899999499320984,
+        0.9900000095367432
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 917264,
+      "componentType": 5126,
+      "count": 15276,
+      "max": [
+        0.9899999499320984,
+        0.9900000095367432
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1029516,
+      "componentType": 5125,
+      "count": 18606,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "cromo3d (https://sketchfab.com/cromo3d)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/hand-anatomical-study-pray-ec5dc7da901d471ca926cece4e8fcc72",
+      "title": "Hand anatomical study - Pray -"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1103940,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1039472,
+      "byteOffset": 1103940,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1559208,
+      "byteOffset": 2143412,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 768864,
+      "byteOffset": 3702620,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 4471484,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/mano_retopo2_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/sx_retopo_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/sx_retopo_normal.png"
+    },
+    {
+      "uri": "textures/rosario_low_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/rosario_low_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.6218877114,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "mano_retopo2"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 1
+          },
+          "glossinessFactor": 0.4,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "sx_retopo",
+      "normalTexture": {
+        "index": 2,
+        "texCoord": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 3
+          },
+          "glossinessFactor": 0.7186019858,
+          "specularFactor": [
+            0.0564316072,
+            0.0564316072,
+            0.0564316072
+          ]
+        }
+      },
+      "name": "rosario_low",
+      "normalTexture": {
+        "index": 4
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "msno_dx_retopo_mano retopo2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "mano_sx_retopo_sx_retopo_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9
+          },
+          "indices": 10,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "rosario low_rosario_low_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 12,
+            "POSITION": 11,
+            "TANGENT": 13,
+            "TEXCOORD_0": 14,
+            "TEXCOORD_1": 15
+          },
+          "indices": 16,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9996412992477417,
+        -0.026781458407640235,
+        0.0,
+        0.0,
+        0.026781458407640235,
+        0.9996412992477417,
+        0.0,
+        -1.2452582120895386,
+        -0.9053624868392952,
+        3.61769962310791,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "mano posing2_realtime_0001.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "matrix": [
+        -0.0813723450963163,
+        -6.274998214512969e-08,
+        0.7254505974226035,
+        0.0,
+        -0.13220286759995603,
+        -0.7177761005973652,
+        -0.014828993791891457,
+        0.0,
+        0.7133028607114686,
+        -0.13303194074555,
+        0.0800097462163078,
+        0.0,
+        -13.0,
+        0.0,
+        8.5,
+        1.0
+      ],
+      "name": "Mani"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        0.25,
+        1.7347234759768067e-18,
+        3.4694469519536134e-18,
+        0.0,
+        -1.7347234759768067e-18,
+        0.25,
+        7.155734338404332e-18,
+        0.0,
+        -3.4694469519536134e-18,
+        -7.155734338404332e-18,
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "msno_dx_retopo"
+    },
+    {
+      "mesh": 0,
+      "name": "msno_dx_retopo_mano retopo2_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        0.25,
+        1.7347234759768067e-18,
+        3.4694469519536134e-18,
+        0.0,
+        -1.7347234759768067e-18,
+        0.25,
+        7.155734338404332e-18,
+        0.0,
+        -3.4694469519536134e-18,
+        -7.155734338404332e-18,
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "mano_sx_retopo"
+    },
+    {
+      "mesh": 1,
+      "name": "mano_sx_retopo_sx_retopo_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        -0.1526972851243835,
+        -0.2480819406370793,
+        1.3385303955580088,
+        0.0,
+        -1.0342024559459595e-07,
+        -1.3469245488725448,
+        -0.24963771676526939,
+        0.0,
+        1.3613259231730395,
+        -0.02782697183540148,
+        0.15014033609539995,
+        0.0,
+        -13.556334495544434,
+        -2.9885356426239014,
+        16.12470054626465,
+        1.0
+      ],
+      "name": "rosario low"
+    },
+    {
+      "mesh": 2,
+      "name": "rosario low_rosario_low_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    }
+  ]
+}
