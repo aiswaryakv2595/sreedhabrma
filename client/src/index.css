@@ -23,7 +23,11 @@
   font-family: 'Roboto Mono', monospace;
   text-shadow: 5px 5px 0 rgb(1, 15, 12);
 }
-
+@media (max-width: 640px) {
+  .email-id {
+    white-space: normal !important;
+  }
+}
 .black-gradient {
   background: #000000; /* fallback for old browsers */
   background: -webkit-linear-gradient(

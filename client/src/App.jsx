@@ -6,6 +6,7 @@ import Work from "./components/Work"
 import Gallery from "./components/Gallery"
 import Event from "./components/Event"
 import Contact from "./components/Contact"
+import Copyright from "./components/Copyright"
 
 function App() {
  
@@ -21,6 +22,8 @@ function App() {
       <Gallery/>
       <Event/>
       <Contact/>
+      <Copyright/>
+      
     </div>
     </BrowserRouter>
   )

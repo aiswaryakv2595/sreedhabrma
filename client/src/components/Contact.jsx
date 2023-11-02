@@ -41,7 +41,9 @@ const Contact = () => {
   </span>
   <div className="text-container">
     <span className="text-white font-medium block text-lg">Email</span>
-    <span className="bg-tertiary text-white font-medium block">dharmasasthacharitabletrust@gmail.com</span>
+    <span className="bg-tertiary text-white font-medium block w-full break-all">
+      dharmasasthacharitabletrust@gmail.com
+    </span>
   </div>
  
 </label>

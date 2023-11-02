@@ -1,4 +1,4 @@
-import { Ayyappa, banner2, food, healthcare, img1, img2, img3, img4, socialcare, thathwamasi, water, web } from '../assets';
+import { Ayyappa, banner2, food, healthcare, img1, img2, img3, img4, img5, img6, img7, img8, socialcare, thathwamasi, water, web } from '../assets';
 export const navLinks = [
     {
       id: "about",
@@ -54,7 +54,11 @@ export const navLinks = [
     img1,
     img2,
     img3,
-    img4
+    img4,
+    img5,
+    img6,
+    img7,
+    img8
   ]
   export const events = [
     {
@@ -77,13 +81,6 @@ export const navLinks = [
         "This is a simple ecommerce with features like user management, cart, Wishlist, orders etc",
      
       image: img3
-    },
-    {
-      name: "Event 3",
-      description:
-        "This is a simple ecommerce with features like user management, cart, Wishlist, orders etc",
-     
-      image: img4
     },
  
   ];
